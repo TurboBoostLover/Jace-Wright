@@ -585,7 +585,7 @@ figcaption {
 
 .intro-header.cc-subpage {
   height: 480px;
-  background-color: #000;
+  background-color: red;
   background-image: none;
   color: #fff;
 }
